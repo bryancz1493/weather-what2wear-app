@@ -1,0 +1,12 @@
+.flex {
+    display:flex;
+}
+.border {
+    border: 1px solid black;
+}
+.width-300px {
+    width:300px;
+}
+.width-100pc {
+    width:100%;
+}
